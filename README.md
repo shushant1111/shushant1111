@@ -12,7 +12,7 @@
 
 - [**StudyNotion**](https://github.com/shushant1111/STUDYNOTION0):StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS, and it integrates Razorpay for payments. You can check out the project live at the link below:  [Accessible Link](https://studynotion-0.vercel.app/)
 
-- [**CilliBlog-App**](https://github.com/shushant1111/CilliBlog): CilliBlog is a blog application built with the MERN stack. The app allows users to create, read, update, and delete blog posts. The backend, powered by Node.js and Express.js, handles authentication, database interactions, and storage services, ensuring a smooth and secure experience. 
+- [**CilliBlog-App**](https://github.com/shushant1111/CilliBlog): CilliBlog is a blog application built with the MERN stack. The app allows users to create, read, update, and delete blog posts. The backend, powered by Node.js and Express.js, handles authentication, database interactions, and storage services, ensuring a smooth and secure experience.You can check out the project live at the link below:  [Accessible Link](https://cilli-blog.vercel.app/) 
 
 - [**RAZORPAYCLONE**](https://github.com/shushant1111/RAZORPAYCLONE):I built a web application that closely mimics the design of the popular Indian payment gateway, Razorpay, using HTML and Tailwind CSS. This project helped me improve my web development skills and showcased my ability to replicate a well-known platform, demonstrating my attention to detail. You can check out the project live at the link below:  [Accessible Link](https://razorpayclone-psi.vercel.app/)
 
